@@ -1,0 +1,21 @@
+[{
+                "counterName": "Avg. Disk Bytes/TransferX",
+                "instanceName": "*",
+                "intervalSeconds": 30,
+                "objectName": "PhysicalDisk",
+                "idx": "RemoteFX Network, Current TCP Bandwidth, *"
+ },
+ {
+                "counterName": "Avg. Disk Bytes/Write",
+                "instanceName": "*",
+                "intervalSeconds": 30,
+                "idx": "PhysicalDisk, Avg. Disk Bytes/Write, *"
+			
+},
+{
+                "counterName": "Avg. Disk Bytes/Write",
+                "instanceName": "*",
+                "intervalSeconds": 30,
+                "objectName": "Any Object",
+                "idx": "Default"
+}]
