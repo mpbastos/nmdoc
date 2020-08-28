@@ -1,9 +1,11 @@
 #### Fslogix logon timeout
 
 This is warning event from winlogon when a fslogix service times out when handling user logon. Click on the tile to identify which session hosts and the time when the events were triggered.
+![Image](https://github.com/mpbastos/nmdoc/raw/master/docs/pics/fstimeout.png)
 Verify if the following conditions which can fslogix logon time outs:
-Authentication issues: user is not able be authenticated by the user profile share
-Profile share is out of space.
+
+* Authentication issues: user is not able be authenticated by the user profile share
+* Profile share is out of space.
 
 
 #### Unexpected Reboots
